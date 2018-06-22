@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="其它类型的引用.cpp">
+    <ClCompile Include="exchange.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
